@@ -4,7 +4,7 @@
 """
 📚 Commands Available -
 • `{i}pong`
-   ketik <handler>pong untuk melihat kecepatan sakura userbot mu.
+   ketik <handler>pong untuk melihat kecepatan 𝙞𝙘𝙡𝙭𝙪𝙨𝙚𝙧𝙗𝙤𝙩 mu.
 """
 
 import asyncio
@@ -17,7 +17,7 @@ async def dsb(ult):
 	await asyncio.sleep(0.5)
 	await ult.edit("`pong....!`")
 	await asyncio.sleep(0.5)
-	await ult.edit("`🌸🌸 PONG 🌸🌸\n\n➥ SAKURA AI\n➥ 69.69ms\n➥ SAKURA UBOT BY:`@dlwrml")
+	await ult.edit("`✨✨ PING ✨✨\n• 🚀 Kecepatan: 69.69ms\n• 🤖 𝙞𝙘𝙡𝙭𝙪𝙨𝙚𝙧𝙗𝙤𝙩 by:`@icalasli")
 	
 # By @levina-lab 😁
 
